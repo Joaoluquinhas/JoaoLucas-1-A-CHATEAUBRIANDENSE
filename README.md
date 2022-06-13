@@ -1,3 +1,4 @@
+* Sobre mim
 - 👋 Hi, I’m @Joaoluquinhas
 - 👀 I’m interested in  learn computing
 - 🌱 I’m currently learning  joining the github platform
